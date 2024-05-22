@@ -1,4 +1,4 @@
-# TeeAcademia
+# My First Project (TeeAcademia)
 
 Welcome to TeeAcademia! This is a platform dedicated to unlocking your creative potential through online design and development courses. Learn from industry experts and enhance your skills with our comprehensive and engaging courses.
 
